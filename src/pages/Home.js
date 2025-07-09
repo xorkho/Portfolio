@@ -144,7 +144,7 @@ export default function Home() {
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-300" />
               </a>
               <a
-                href="/Resume.pdf"
+                href="/RESUME.pdf"
                 download
                 className="px-8 py-4 border border-gray-500 text-gray-300 rounded-xl hover:bg-gray-200 hover:text-slate-900 transition-all duration-300 font-bold flex items-center justify-center gap-2 group hover:scale-105 hover:-translate-y-1 tracking-wide"
               >

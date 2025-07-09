@@ -3,12 +3,11 @@ import { Code, Database, Globe, Zap, BookOpen, Users, Lightbulb } from 'lucide-r
 
 export default function About() {
   const skills = [
-    { name: "Python", level: 90, icon: Code, color: "blue" },
-    { name: "JavaScript", level: 85, icon: Globe, color: "purple" },
-    { name: "React", level: 80, icon: Zap, color: "indigo" },
+    { name: "Python", level: 95, icon: Code, color: "blue" },
     { name: "Django", level: 90, icon: Database, color: "blue" },
     { name: "HTML/CSS", level: 90, icon: Globe, color: "purple" },
-    { name: "SQL", level: 75, icon: Database, color: "indigo" },
+    { name: "JavaScript", level: 85, icon: Globe, color: "purple" },
+    { name: "React", level: 80, icon: Zap, color: "indigo" },
     { name: "Git", level: 80, icon: Code, color: "blue" },
     { name: "C", level: 50, icon: Code, color: "purple" }
   ];
@@ -16,7 +15,7 @@ export default function About() {
   const achievements = [
     {
       icon: BookOpen,
-      title: "Computer & Information Systems Engineering",
+      title: "Educational Background",
       subtitle: "NED University of Engineering & Technology",
       description: "Pursuing degree in Computer & Information Systems Engineering with focus on software development and system design."
     },
