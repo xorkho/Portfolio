@@ -165,10 +165,10 @@ export default function Home() {
               </div>
               <div className="text-center group hover:scale-105 transition-transform duration-300">
                 <div className="text-2xl md:text-3xl font-black text-blue-400 mb-1 group-hover:text-blue-300 transition-colors">
-                  30+
+                  Building
                 </div>
                 <div className="text-sm text-gray-400 font-medium tracking-wide group-hover:text-gray-300 transition-colors">
-                  Projects Completed
+                  Real-world Projects
                 </div>
               </div>
               <div className="text-center group hover:scale-105 transition-transform duration-300">
